@@ -3,6 +3,3 @@ class Dog
   dog.new = "Lassie"
   dog.new = "Snoopy"
 end
-
-
-
